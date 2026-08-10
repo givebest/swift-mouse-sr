@@ -10,13 +10,13 @@ Mouse SR 是一款 macOS 小工具，主要解决两件事：让普通鼠标的�
 
 ## 下载
 
-[前往 Releases 下载最新版](./releases/)
+[下载最新版 Mouse SR for Mac](https://github.com/givebest/swift-mouse-sr/raw/refs/heads/main/releases/MouseSR.dmg)
 
 Mouse SR 支持 **macOS 15 及以上版本**。建议下载 `.dmg` 安装包，打开后将 Mouse SR 拖入“应用程序”文件夹即可。
 
 首次使用平滑滚动时，macOS 会要求授予“辅助功能”权限，应用会引导你打开对应的系统设置。Finder 右键工具需要另外启用 Mouse SR Finder 扩展，并在应用中选择允许使用这些菜单的文件夹。
 
-Mouse SR Pro 提供 7 天完整功能试用，试用不会自动续费或扣费。试用结束后，平滑滚动和 Finder 右键工具会暂停使用；你可以[一次性购买永久版](https://hp60.com/mouse-sr/)，不需要订阅，一份许可证最多可激活 3 台 Mac。
+Mouse SR Pro 提供 7 天完整功能试用，试用不会自动续费或扣费。试用结束后，平滑滚动和 Finder 右键工具会暂停使用；你可以[一次性购买永久版](https://hp60.com/mouse-sr/pricing/)，不需要订阅，一份许可证最多可激活 3 台 Mac。
 
 ## 平滑滚动
 
@@ -50,4 +50,4 @@ Mouse SR 会把鼠标滚轮一格一格的生硬跳动，转换成更连贯的�
 
 激活永久版时，应用会向许可证服务发送许可证密钥、随机生成的安装标识、Mac 名称和应用版本。定期校验也会发送必要的许可证及版本信息，但不会发送鼠标活动或文件数据。
 
-遇到问题可以[联系支持](https://hp60.com/about/contact/)。另请参阅[隐私政策](https://hp60.com/about/privacy/)和[使用条款](https://hp60.com/about/terms/)。
+遇到问题可以[联系支持](https://hp60.com/mouse-sr/about/contact/)。另请参阅[隐私政策](https://hp60.com/mouse-sr/about/privacy/)和[使用条款](https://hp60.com/mouse-sr/about/terms/)。

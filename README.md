@@ -10,13 +10,13 @@ If your mouse wheel moves the page in stiff, notched steps, Mouse SR turns those
 
 ## Download
 
-[Download the latest release](./releases)
+[Download Mouse SR for Mac](https://github.com/givebest/swift-mouse-sr/raw/refs/heads/main/releases/MouseSR.dmg)
 
 Mouse SR requires **macOS 15 or later**. Download the `.dmg`, open it, and drag Mouse SR into your Applications folder.
 
 The first time you enable smooth scrolling, Mouse SR will guide you to grant Accessibility permission in System Settings. To use the Finder tools, you also need to enable the Mouse SR Finder extension and choose which folders may show its menu items.
 
-Mouse SR Pro includes a free 7-day trial of every feature. The trial does not renew, and you will never be charged automatically. When it ends, smooth scrolling and Finder actions pause until you [buy a lifetime license](https://hp60.com/mouse-sr/). There is no subscription, and one license can activate up to three Macs.
+Mouse SR Pro includes a free 7-day trial of every feature. The trial does not renew, and you will never be charged automatically. When it ends, smooth scrolling and Finder actions pause until you [buy a lifetime license](https://hp60.com/mouse-sr/pricing/). There is no subscription, and one license can activate up to three Macs.
 
 ## Smooth scrolling
 
@@ -50,4 +50,4 @@ Mouse and file processing happen locally on your Mac. Mouse SR does not upload m
 
 When you activate a lifetime license, the app sends the license key, a randomly generated installation ID, your Mac's name, and the app version to the license service. Periodic validation also sends basic license and app-version information. Mouse activity and file data are never sent.
 
-Need help? [Contact support](https://hp60.com/about/contact/). You can also read the [Privacy Policy](https://hp60.com/about/privacy/) and [Terms of Use](https://hp60.com/about/terms/).
+Need help? [Contact support](https://hp60.com/mouse-sr/about/contact/). You can also read the [Privacy Policy](https://hp60.com/mouse-sr/about/privacy/) and [Terms of Use](https://hp60.com/mouse-sr/about/terms/).
